@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My previous projects have been on writing high-performance computing code for parallelized molecular dynamics simulation software.
+
+I've been laerning Rust on the side.
 <!--
 **tabedzki/tabedzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

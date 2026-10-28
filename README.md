@@ -4,7 +4,7 @@ I'm a Research Software Engineer at the [Princeton Neuroscience Institute](https
 
 **What I'm working on**
 
-- 🧠 **BRAIN CoGS data pipelines.** These are [DataJoint](https://github.com/datajoint/datajoint-python) pipelines for Neuropixels ephys and two-photon imaging: Kilosort 4 with DREDge motion correction, suite2p running on the cluster's GPUs through Slurm, and NWB export. I'm also moving the scheduling over to Airflow 3. All of this sits on a few hundred terabytes of storage that I keep in order.
+- 🧠 **BRAIN CoGS data pipelines.** These are [DataJoint](https://github.com/datajoint/datajoint-python) pipelines for Neuropixels ephys and two-photon imaging: Kilosort 4 with DREDge motion correction, suite2p running on the cluster's GPUs through Slurm, and NWB export. All of this sits on a few hundred terabytes of storage that I keep in order.
 - 🐭 **Lab tools.** These are the tools the lab uses every day: a Streamlit app with SSO for scheduling technicians and training rigs, the code that runs the [ViRMEn](https://github.com/BrainCOGS/ViRMEn) virtual-reality rigs, and a Raspberry Pi GUI for water delivery.
 - 🗺️ **[PixelMap](https://github.com/m-beau/pixelmap).** It's a browser-based tool for designing Neuropixels channel maps. I handle the packaging, Docker, and hosting at [pixelmap.pni.princeton.edu](https://pixelmap.pni.princeton.edu), and co-authored the JOSS paper. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22850327.svg)](https://doi.org/10.5281/zenodo.22850327)
 - 💰 **[Actual Budget](https://github.com/actualbudget/actual).** I'm a core contributor. I built the Budget Analysis report (category and group filters, stacked bars, CSV export), and I review PRs and triage issues.
